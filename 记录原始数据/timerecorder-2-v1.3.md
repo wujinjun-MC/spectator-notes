@@ -1,7 +1,7 @@
 更新内容见表1，本表初始版本v1.2
 
 | 序号 |   年   | 月  | 日 | 时 | 分  | 秒 | 误差   | 备注 | 计时来源 | 对比表1 | 特征标签 | 
-|---|--------|-----|---|----|-----|---|-------|-----|---|---|----------|
+|---|--------|-----|---|----|-----|---|-------|-----|---|---|----------------|
 |1    | 2022 | 09 | 21 | 14 | 26 | 15 | +-1s  | 见表1 | NTP(time.windows.com) | 0s
 |2    | 2022 | 09 | 22 | 14 | 23 | 15 | +-1s  | - | NTP(time.windows.com) | +163s
 |3    | 2022 | 09 | 23 | 07 | 17 | 15 | +-20s  | 这可以说捡漏成功。| 时间估算:我在娄底看到了+(上楼看到了-我到了娄底) | 无
@@ -13,3 +13,5 @@
 |9    | 2022 | 10 | 08 | 14 | 18 | 45 | +-3s  | - | NTP(time.windows.com) | +159s | {主色调::{白色},附加物品::{Shoulder_bag{白色}},WithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
 |10    | 2022 | 10 | 09 | 14 | 18 | 28 | +-2s  | - | NTP(time.windows.com) | -4s | {主色调::{Layer1::红色,Layer2::百色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
 |11    | 2022 | 10 | 10 | 14 | 14 | 27 | +-3s  | 快看笔记快看笔记快看笔记 | NTP(time.windows.com) | -597s | {主色调::{Layer1::绿色},附加物品::{fake_flower{yellow?},空},notWithOthers,Uncommon,notInteractPlayers,notNoticeMe}
+|12    | 2022 | 10 | 11 | 14 | 24 | 40 | +-3s  | - | NTP(time.windows.com) | +116s | {主色调::{Layer1::`未知`色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,NoticeMe?}
+|13    | 2022 | 10 | 12 | 14 | 20 | 52 | +-3s  | - | NTP(time.windows.com) | +109s | {主色调::{Layer1::丶色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
