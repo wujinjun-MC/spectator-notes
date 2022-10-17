@@ -15,3 +15,4 @@
 |11    | 2022 | 10 | 10 | 14 | 14 | 27 | +-3s  | 快看笔记快看笔记快看笔记 | NTP(time.windows.com) | -597s | {主色调::{Layer1::绿色},附加物品::{fake_flower{yellow?},空},notWithOthers,Uncommon,notInteractPlayers,notNoticeMe}
 |12    | 2022 | 10 | 11 | 14 | 24 | 40 | +-3s  | - | NTP(time.windows.com) | +116s | {主色调::{Layer1::`未知`色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,NoticeMe?}
 |13    | 2022 | 10 | 12 | 14 | 20 | 52 | +-3s  | - | NTP(time.windows.com) | +109s | {主色调::{Layer1::丶色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|14    | 2022 | 10 | 17 | 07 | 15 | 33 | +-2s  | - | NTP(time.windows.com) | 未知 | {主色调::{Layer1::白色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
