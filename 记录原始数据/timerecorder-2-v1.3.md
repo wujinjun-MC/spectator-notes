@@ -16,3 +16,8 @@
 |12    | 2022 | 10 | 11 | 14 | 24 | 40 | +-3s  | - | NTP(time.windows.com) | +116s | {主色调::{Layer1::`未知`色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,NoticeMe?}
 |13    | 2022 | 10 | 12 | 14 | 20 | 52 | +-3s  | - | NTP(time.windows.com) | +109s | {主色调::{Layer1::丶色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
 |14    | 2022 | 10 | 17 | 07 | 15 | 33 | +-2s  | - | NTP(time.windows.com) | 未知 | {主色调::{Layer1::白色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|15    | 2022 | 10 | 19 | 07 | 15 | 00 | +-5s  | - | NTP(time.windows.com) | +000s | {主色调::{Layer1::白色},附加物品::{空,空},notWithOthers::{playername},nncommon,notInteractPlayers,notNoticeMe}
+|16    | 2022 | 10 | 19 | 14 | 26 | 37 | +-1s  | - | NTP(time.windows.com) | -84s | {主色调::{Layer1::白色,Layer2::?色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|17    | 2022 | 10 | 22 | 14 | 28 | 19 | +-1s  | - | NTP(time.windows.com) | +30s | {主色调::{Layer1::丶色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|18    | 2022 | 10 | 24 | 07 | 16 | 32 | +-2s  | - | NTP(time.windows.com) | 未知 | {主色调::{Layer1::白色},附加物品::{空, Shoulder_bag{白色}},notWithOthers::{playername},notUncommon,notInteractPlayers,NoticeMe?}
+|19    | 2022 | 10 | 24 | 14 | 25 | 54 | +-1s  | - | NTP(time.windows.com) | 未知 | {主色调::{Layer1::白色},附加物品::{空, Shoulder_bag{白色}},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
