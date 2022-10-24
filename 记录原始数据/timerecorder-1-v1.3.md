@@ -62,6 +62,11 @@ v1.1 增加计时来源
 |53    | 2022 | 09 | 30 | 14 | 20 | 52 | +-3s  | 国庆节后，新版本v1.3见 | NTP(time.windows.com) | +335s
 |54    | 2022 | 10 | 08 | 14 | 21 | 24 | +-3s  | v1.3新版开始的地方 | NTP(time.windows.com) | -159s | {主色调::{白色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
 |55    | 2022 | 10 | 09 | 14 | 18 | 24 | +-2s  | ~~又一次20min之前~~原因已找到，详见2022年10月的观察笔记 | NTP(time.windows.com) | +4s | {主色调::{绿色},附加物品::{空,空},WithOthers::{unknown,unknown},Uncommon,notInteractPlayers,notNoticeMe,Sound{Happy}}
-|56    | 2022 | 10 | 10 | 14 | 04 | 30 | +-15s  | 快看笔记快看笔记快看笔记 | NTP(time.windows.com) | +597s | {主色调::{Layer1::白色？},附加物品::{空,空},WithOthers::{[Too_Many]},Uncommon,notInteractPlayers,NoticeMe？}
-|57    | 2022 | 10 | 11 | 14 | 2 | 36 | +-2s  | 时间终于恢复正常。等等，旁边那个玩家是谁……(in the notes) | NTP(time.windows.com) | -116s | {主色调::{Layer1::绿色},附加物品::{空,空},WithOthers::{`wy`},Uncommon,notInteractPlayers,notNoticeMe}
+|56    | 2022 | 10 | 10 | 14 | 04 | 30 | +-15s  | 快看笔记快看笔记快看笔记 | NTP(time.windows.com) | +597s | {主色调::{Layer1::白色？},附加物品::{空,空},WithOthers::{[Too_Many]},Uncommon,notInteractPlayers,NoticeMe?}
+|57    | 2022 | 10 | 11 | 14 | 26 | 36 | +-2s  | 时间终于恢复正常。等等，旁边那个玩家是谁……(in the notes) | NTP(time.windows.com) | -116s | {主色调::{Layer1::绿色},附加物品::{空,空},WithOthers::{`wy`},Uncommon,notInteractPlayers,notNoticeMe}
 |58    | 2022 | 10 | 12 | 14 | 22 | 41 | +-2s  | 回归正常 | NTP(time.windows.com) | -109s | {主色调::{Layer1::黑色,Layer2::绿色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|59    | 2022 | 10 | 19 | 07 | 13 | 30 | +-15s  | 详见今天笔记 | NTP(time.windows.com) | +89s | {主色调::{Layer1::绿色},附加物品::{空,空},notWithOthers::{playername},Uncommon,notInteractPlayers,NoticeMe}
+|60    | 2022 | 10 | 19 | 14 | 25 | 13 | +-1s  | - | NTP(time.windows.com) | +84s | {主色调::{Layer1::绿色,Layer2::?色},附加物品::{Shoulder_bag{白色}},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|61    | 2022 | 10 | 21 | 07 | 17 | 33 | +-1s  | 最近07时段提前了，值得分析 | NTP(time.windows.com) | 未知 | {主色调::{Layer1::蓝色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|62    | 2022 | 10 | 21 | 14 | 27 | 55 | +-1s  | - | NTP(time.windows.com) | 未知 | {主色调::{Layer1::白色,Layer2::粉色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,NoticeMe?}
+|63    | 2022 | 10 | 22 | 14 | 28 | 49 | +-1s  | - | NTP(time.windows.com) | -30s | {主色调::{Layer1::白色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe,running{reason::time_late}}
