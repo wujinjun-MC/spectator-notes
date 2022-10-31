@@ -1,4 +1,4 @@
-v1.3 增加特征标签，用于记录其特征，训练观察能力。当前格式：以英文逗号分隔，双英文冒号表示从属关系("{从::{属}}"或"(从::(属))")(有键盘时建议大括号{})。E<"(a,b,c,d::(d1,d2,d3::(d31,d32)),e)"><{a,b,c,d::{d1,d2,d3::{d31,d32}},e}>
+v1.3 增加特征标签，用于记录其特征，训练观察能力。当前格式：20221026之前以英文逗号分隔，双英文冒号表示从属关系("{从::{属}}"或"(从::(属))")(有键盘时建议大括号{})。E<"(a,b,c,d::(d1,d2,d3::(d31,d32)),e)"><{a,b,c,d::{d1,d2,d3::{d31,d32}},e}>。20221027开始已换为JSON
 
 v1.2 增加与表2对比
 
@@ -70,3 +70,11 @@ v1.1 增加计时来源
 |61    | 2022 | 10 | 21 | 07 | 17 | 33 | +-1s  | 最近07时段提前了，值得分析 | NTP(time.windows.com) | 未知 | {主色调::{Layer1::蓝色,Layer2::丶色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
 |62    | 2022 | 10 | 21 | 14 | 27 | 55 | +-1s  | - | NTP(time.windows.com) | 未知 | {主色调::{Layer1::白色,Layer2::粉色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,NoticeMe?}
 |63    | 2022 | 10 | 22 | 14 | 28 | 49 | +-1s  | - | NTP(time.windows.com) | -30s | {主色调::{Layer1::白色},附加物品::{空,空},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe,running{reason::time_late}}
+|64    | 2022 | 10 | 25 | 14 | 27 | 49 | +-3s  | - | NTP(time.windows.com) | -22s | {Minecraft_skin::{Layer1::uni_local},hand::{none,Shoulder_bag{pink}},notWithOthers::{playername},notUncommon,notInteractPlayers,notNoticeMe}
+|65    | 2022 | 10 | 27 | 14 | 26 | 24 | +-1s  | 特征标签开始换成JSON的地方 | NTP(time.windows.com) | -104s |{"clothes":{"layers":[{"name":"normal","colors":["#EC407A"]}],"layer_sort":"from_surface_to_deep"},"items":{"hand_R":[{"name":"Shoulder_bag","colors":[""]}]},"with_others":[],"uncommon":false,"interact_players":false,"notice_me":false}
+|66    | 2022 | 10 | 26 | 17 | 49 | 00 | +-60s  | - | 时间估计(1min before `key_time`) | 未知 |{"clothes":{"layers":[{"name":"normal","colors":["#EC407A"]}],"layer_sort":"from_surface_to_deep"},"items":{"hand_R":[{"name":"Shoulder_bag","colors":[""]}]},"with_others":["unknown"],"uncommon":false,"interact_players":false,"notice_me":true}
+|67    | 2022 | 10 | 27 | 17 | 49 | 00 | +-60s  | - | 时间估计(1min before `key_time`) | 未知 |{"clothes":{"layers":[{"name":"normal","colors":["#EC407A"]}],"layer_sort":"from_surface_to_deep"},"items":{"hand_R":[{"name":"Shoulder_bag","colors":[""]}]},"with_others":["unknown"],"uncommon":false,"interact_players":false,"notice_me":true}
+|68    | 2022 | 10 | 28 | 14 | 25 | 51 | +-1s  | - | NTP(time.windows.com) | +41s |{"clothes":{"layers":[{"name":"normal","colors":["#F44336"]}],"layer_sort":"from_surface_to_deep"},"items":{"hand_R":[{"name":"Shoulder_bag","colors":[""]}]},"with_others":[],"uncommon":false,"interact_players":false,"notice_me":false}
+|69    | 2022 | 10 | 28 | 17 | 45 | 50 | +-1s  | 我回来的路上遇见了她 | NTP(time.windows.com) | 未知 |{"clothes":{"layers":[{"name":"normal","colors":["#F44336"]}],"layer_sort":"from_surface_to_deep"},"items":{"hand_R":[{"name":"Shoulder_bag","colors":[""]}]},"with_others":[],"uncommon":false,"interact_players":false,"notice_me":false}
+|70    | 2022 | 10 | 29 | 14 | 24 | 55 | +-2s  | - | 时间估计(30s内才同步上NTP) | +75s |{"clothes":{"layers":[{"name":"normal","colors":["#EEEEEE"]}],"layer_sort":"from_surface_to_deep"},"items":{"hand_R":[{"name":"Shoulder_bag","colors":["#EEEEEE"]}]},"with_others":["unknown"],"uncommon":false,"interact_players":false,"notice_me":false}
+|71    | 2022 | 10 | 31 | 14 | 25 | 47 | +-2s  | 一边打音游(想象)一边观察 | NTP(time.windows.com) | +149s |{"clothes":{"layers":[{"name":"normal","colors":["#2E7D32"]}],"layer_sort":"from_surface_to_deep"},"items":{"hand_R":[{"name":"Shoulder_bag","colors":["#EEEEEE"]}]},"with_others":[],"uncommon":false,"interact_players":false,"notice_me":false}
