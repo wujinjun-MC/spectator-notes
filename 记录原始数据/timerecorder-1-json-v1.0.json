@@ -313,5 +313,93 @@
     "notes": [
       "一边打音游(想象)一边观察"
     ]
+  },
+  {
+    "num": 72,
+    "date": "20221101",
+    "time": "142726",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -99999999
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#BDBDBD"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": [
+              "#EEEEEE"
+            ]
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 73,
+    "date": "20221102",
+    "time": "142610",
+    "error_range": 2,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -2
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#212121"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": [
+      "注意看，她居然是小黑子(right line fell)"
+    ]
   }
 ]
