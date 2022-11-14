@@ -401,5 +401,355 @@
     "notes": [
       "注意看，她居然是小黑子(right line fell)"
     ]
+  },
+  {
+    "num": 74,
+    "date": "20221108",
+    "time": "125400",
+    "error_range": 60,
+    "time_source": {
+      "source": "estimation",
+      "NTP_server": ""
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": 5455
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#EEEEEE",
+              "#9E9E9E"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {},
+      "with_others": [],
+      "uncommon": true,
+      "interact_players": false,
+      "notice_me": true
+    },
+    "notes": [
+      "找到14时段无响应原因，详见观察笔记。新时段命名为13时段 | 时间估计(挂钟)"
+    ]
+  },
+  {
+    "num": 75,
+    "date": "20221110",
+    "time": "142540",
+    "error_range": 1,
+    "time_source": {
+      "NTP_server": "time.windows.com",
+      "source": "NTP"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -99999999
+      }
+    },
+    "notes": [],
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#212121"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    }
+  },
+  {
+    "num": 76,
+    "date": "20221111",
+    "time": "071650",
+    "error_range": 3,
+    "time_source": {
+      "NTP_server": "time.windows.com",
+      "source": "NTP"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -99999999
+      }
+    },
+    "notes": [
+      "知道我一路是怎么走来的吗"
+    ],
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#EEEEEE",
+              "#9E9E9E"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "with_others": [
+        "unknown"
+      ],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": true
+    }
+  },
+  {
+    "num": 77,
+    "date": "20221111",
+    "time": "071840",
+    "error_range": 3,
+    "time_source": {
+      "NTP_server": "time.windows.com",
+      "source": "NTP"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -99999999
+      }
+    },
+    "notes": [],
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#EEEEEE",
+              "unknown"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false,
+      "with_others": []
+    }
+  },
+  {
+    "num": 78,
+    "date": "20221112",
+    "time": "142542",
+    "error_range": 3,
+    "time_source": {
+      "NTP_server": "time.windows.com",
+      "source": "NTP"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -77
+      }
+    },
+    "notes": [],
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#EEEEEE"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false,
+      "with_others": []
+    }
+  },
+  {
+    "num": 79,
+    "date": "20221112",
+    "time": "171845",
+    "error_range": 1,
+    "time_source": {
+      "NTP_server": "time.windows.com",
+      "source": "NTP"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": 328
+      }
+    },
+    "notes": [],
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#EEEEEE"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false,
+      "with_others": []
+    }
+  },
+  {
+    "num": 80,
+    "date": "20221113",
+    "time": "223600",
+    "error_range": 5,
+    "time_source": {
+      "NTP_server": "time.windows.com",
+      "source": "NTP"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -99999999
+      }
+    },
+    "notes": [
+      "在操场靠门出口发现（猝不及防），时间记录于出门后"
+    ],
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "uni_grade",
+            "colors": [
+              "#EEEEEE",
+              "#9C27B0"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "uncommon": true,
+      "interact_players": false,
+      "notice_me": true,
+      "with_others": [
+        "unknown"
+      ]
+    }
+  },
+  {
+    "num": 81,
+    "date": "20221114",
+    "time": "142707",
+    "error_range": 1,
+    "time_source": {
+      "NTP_server": "time.windows.com",
+      "source": "NTP"
+    },
+    "compare": {
+      "timerecorder2": {
+        "difference": -33
+      }
+    },
+    "notes": [],
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "uni_grade",
+            "colors": [
+              "#EEEEEE",
+              "#9C27B0"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "back": [
+          {
+            "name": "bag",
+            "colors": [
+              "#1565C0"
+            ]
+          }
+        ]
+      },
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false,
+      "with_others": []
+    }
   }
 ]
