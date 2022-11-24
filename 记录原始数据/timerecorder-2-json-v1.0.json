@@ -716,5 +716,338 @@
       "notice_me": false
     },
     "notes": []
+  },
+  {
+    "num": 38,
+    "date": "20221115",
+    "time": "142517",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": 72
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#212121"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 39,
+    "date": "20221116",
+    "time": "142812",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": -427
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#FDD835"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 40,
+    "date": "20221117",
+    "time": "142635",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": -120
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#F9A825"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 41,
+    "date": "20221118",
+    "time": "142642",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": 12
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#212121",
+              "#EEEEEE"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 42,
+    "date": "20221119",
+    "time": "142724",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": 0
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": []
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [
+        "1",
+        "hwt"
+      ],
+      "uncommon": true,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 43,
+    "date": "20221121",
+    "time": "142442",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": 180
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#F9A825",
+              "#EEEEEE"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [
+        "unknown"
+      ],
+      "uncommon": true,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 44,
+    "date": "20221122",
+    "time": "142458",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": 126
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#212121"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
+  },
+  {
+    "num": 45,
+    "date": "20221123",
+    "time": "142526",
+    "error_range": 1,
+    "time_source": {
+      "source": "NTP",
+      "NTP_server": "time.windows.com"
+    },
+    "compare": {
+      "timerecorder1": {
+        "difference": -190
+      }
+    },
+    "info": {
+      "clothes": {
+        "layers": [
+          {
+            "name": "normal",
+            "colors": [
+              "#212121"
+            ]
+          }
+        ],
+        "layer_sort": "from_surface_to_deep"
+      },
+      "items": {
+        "hand_R": [
+          {
+            "name": "Shoulder_bag",
+            "colors": []
+          }
+        ]
+      },
+      "with_others": [],
+      "uncommon": false,
+      "interact_players": false,
+      "notice_me": false
+    },
+    "notes": []
   }
 ]
