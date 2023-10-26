@@ -1,0 +1,195 @@
+{
+  "colors": {
+    "tr1": {
+      "dark-blue-and-white": [
+        "#0D47A1",
+        "#E0E0E0"
+      ],
+      "green-and-blue": [
+        "#2E7D32",
+        "#E0E0E0"
+      ],
+      "black-and-grey": [
+        "#616161",
+        "#9E9E9E"
+      ],
+      "grey-with-points(with_extra:light-grey-points-when-#E0E0E0)": [
+        "#E0E0E0"
+      ],
+      "light-brown-with-outline(with_extra:up-brown-when-#FFF9C4)": [
+        "#FFF9C4"
+      ]
+    },
+    "tr2": {
+      "pink-and-white-grid": [
+        "#F06292",
+        "#EEEEEE"
+      ],
+      "green-and-white": [
+        "#2E7D32",
+        "#EEEEEE"
+      ],
+      "brown-and-dark-blue": [
+        "#FFF9C4",
+        "#0D47A1"
+      ],
+      "[full_layer]streak_white_and_black": {
+        "name": "normal_streak",
+        "extra": {},
+        "colors": [
+          "#EEEEEE",
+          "#212121"
+        ]
+      },
+      "light-yellow-and-blue-streak": [
+        "#42A5F5",
+        "#FFffeecc"
+      ],
+      "streak-light-yellow-and-dark-blue": [
+        "#1A237E",
+        "#FFffeecc"
+      ],
+      "streak-pink-and-light-blue ": [
+        "#40C4FF",
+        "#F48FB1"
+      ],
+      "grid-light_red-and-white": [
+        "#E91E63",
+        "#EEEEEE"
+      ]
+    },
+    "single": [
+      "#F06292",
+      "#FF009688",
+      "#F5F5F5",
+      "#F44336",
+      "#EEEEEE",
+      "#2E7D32",
+      "#212121",
+      "#BDBDBD",
+      "#1565C0",
+      "#0D47A1",
+      "#FFF9C4",
+      "#F9A825",
+      "#9E9E9E",
+      "#9C27B0",
+      "#E0E0E0",
+      "#1A237E",
+      "#FDD835",
+      "#42A5F5",
+      "#64B5F6",
+      "#E040FB",
+      "#FF8F00",
+      "#EF9A9A",
+      "#5D4037",
+      "#FBC02D",
+      "#ffffd972",
+      "#40C4FF",
+      "#FB8C00",
+      "#616161",
+      "#FFa46c3e",
+      "#F48FB1",
+      "#FFcabdac",
+      "#FFffeecc",
+      "#AB47BC",
+      "#E91E63"
+    ],
+    "universal": {
+      "full_layer-uni-grade-summer": {
+        "name": "uni_grade_summer",
+        "extra": {},
+        "colors": [
+          "#EEEEEE",
+          "#9C27B0"
+        ]
+      }
+    }
+  },
+  "extras": {
+    "tr2": {
+      "outlines": {
+        "white-on-up-and-middle_up-when-#212121": {
+          "colors": [
+            "#E0E0E0"
+          ],
+          "position": "up-and-middle_up"
+        },
+        "red-on-up-when-#EEEEEE": {
+          "colors": [
+            "#F44336"
+          ],
+          "position": "up"
+        }
+      },
+      "lines": {
+        "black-line-when-#F44336": {
+          "colors": [
+            "#212121"
+          ],
+          "position": "middle_up"
+        }
+      },
+      "mixed_colors": {
+        "light-grey-points-when-#EEEEEE": {
+          "colors": [
+            "#9E9E9E",
+            "#BDBDBD"
+          ],
+          "position": "full",
+          "pattern": "points"
+        },
+        "yellow-and-green-random-things-when-#E0E0E0": {
+          "colors": [
+            "#ffffd972",
+            "#2E7D32"
+          ],
+          "position": "full",
+          "pattern": "random"
+        }
+      }
+    },
+    "tr1": {
+      "mixed-colors": {
+        "light-grey-points-when-#E0E0E0(colors:grey-with-points)": {
+          "colors": [
+            "#9E9E9E",
+            "#BDBDBD"
+          ],
+          "position": "full",
+          "pattern": "points"
+        },
+        "yellow-and-green-random-things-when-#E0E0E0": {
+          "colors": [
+            "#ffffd972",
+            "#2E7D32"
+          ],
+          "position": "full",
+          "pattern": "random"
+        }
+      },
+      "outlines": {
+        "up-brown-when-#FFF9C4(with_colors:light-brown-with-brown-outline)": {
+          "colors": [
+            "#FFa46c3e"
+          ],
+          "position": "up"
+        }
+      }
+    }
+  },
+  "names": {
+    "neg1": {
+      "name": "neg1",
+      "description": "\"观察笔记-2023年2月\"中所说的那个反对者"
+    },
+    "neg2": {
+      "name": "neg2",
+      "description": "2023年5月，新增反对者，neg2.height<neg1.height"
+    },
+    "szy+hbn": {
+      "name1_base64": "6IuP6Iq35aaN",
+      "name2_base64": "6buE5a6d6ZyT",
+      "relative": "伴随"
+    }
+  }
+}
