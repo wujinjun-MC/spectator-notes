@@ -9,3 +9,8 @@
 想要加入？在QQ、Wechat、Telegram、Bilibili上找到我，或在[location]中寻找叫做`服主`的玩家。
 
 数据不定时更新
+
+## Status
+
+1. 2022: archived
+
